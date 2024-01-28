@@ -1,0 +1,1 @@
+Electric Field Calculator in JavaFX for Electricity & Magnetism students. Can calculate E-field for different configurations of source charge with uniform charge densities and can randomly generate practice problems for students. WIP to support variable charge densities.
